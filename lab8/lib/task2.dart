@@ -40,7 +40,7 @@ class ProfileCard extends StatelessWidget {
 
               // Name
               const Text(
-                'Iqra ',
+                'Iqra Baloch',
                 style: TextStyle(
                   fontSize: 22,
                   fontWeight: FontWeight.bold,
